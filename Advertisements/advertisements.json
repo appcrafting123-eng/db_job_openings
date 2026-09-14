@@ -2,7 +2,7 @@
   {
     "image": "ad1.png",
     "url": "https://www.credelop.com/",
-    "show": true
+    "show": false
   },
   {
     "image": "ad2.png",
@@ -16,6 +16,16 @@
   },
   {
     "image": "ad4.png",
+    "url": "https://www.credelop.com/",
+    "show": false
+  },
+  {
+    "image": "ad5.png",
+    "url": "https://www.credelop.com/",
+    "show": true
+  },
+  {
+    "image": "ad6.png",
     "url": "https://www.credelop.com/",
     "show": true
   }
